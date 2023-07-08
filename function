@@ -1,0 +1,20 @@
+Q1.  What are the two types of functions in Python?
+Q2. When should you use anonymous functions and when should you use regular ones?
+Q3. Do Python functions have return values? If yes, then how many can they have?
+Q4. Why does Python support both positional and keyword arguments to its functions?
+Q5. Can you explain what decorators are in Python?
+Q6. Is there any way to define static methods in Python? If yes, then how?
+Q7. How would you convert JSON to Python objects?
+Q8. Can you explain what recursion is and why it’s useful?
+Q9. How do you access the value returned by a function invoked in another function?
+Q10. What is a dynamically typed language?
+Q11. What is an Interpreted language?
+Q12.What are modules and packages in Python?
+Q13.What are global, protected and private attributes in Python?
+Q14.What is the use of self in Python
+Q15.What are unit tests in Python?
+Q16. What is slicing in Python?
+Q17.What is lambda in Python? Why is it used?
+Q18.What are generators in Python?
+Q19.How Python is interpreted?
+Q20.What are iterators in Python?
